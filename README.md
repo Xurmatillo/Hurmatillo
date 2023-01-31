@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @Hurmatillo
-- 👀 I’m interested in Robotech and Coding,NFT
+- 👋 Hi, I’m @Xurmatillo
+- 👀 I’m interested in Robotech and Coding, A.I.
 - 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Hurmatillo/Hurmatillo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 💞️ I’m looking to collaborate on Aliens team.
+- 📫 How to reach me:
+- https://t.me/XikmatillayevichOxunovXurmatillo
+- https://twitter.com/Oxunov55
+- https://www.facebook.com/XurmatilloOxunov
+- https://www.instagram.com/oxunov_xurmatillo
